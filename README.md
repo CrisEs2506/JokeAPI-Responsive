@@ -8,3 +8,6 @@ Single page responsive de temática del joker, que consume la siguiente API púb
 - Javascript.
 - RemixIcons.
 - Swiper.
+
+### Despliegue
+<a target="_blank" href="https://crises2506.github.io/JokeAPI-Responsive/">https://crises2506.github.io/JokeAPI-Responsive/</a>
